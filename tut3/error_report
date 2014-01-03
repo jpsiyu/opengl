@@ -1,0 +1,9 @@
+this program cannot draw a triangle.
+
+develop environment:
+	1. root system: win7
+	2. ubuntu in the vbox
+	3. gcc, glut, glew
+
+reason:
+	I have no idear.
